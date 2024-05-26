@@ -1,0 +1,6 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Alt-[": "ParagraphPrevious",
+    "Alt-]": "ParagraphNext",
+    "CtrlUnderscore": "lua:comment.comment"
+}
